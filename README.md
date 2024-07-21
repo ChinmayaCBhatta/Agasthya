@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ChinmayaCBhatta
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning DSA
+
 - 📫 Reach me using:- chinmaya2407@gmail.com
 
 <!---
